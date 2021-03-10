@@ -1,3 +1,8 @@
 Cold and dry, but everything is my favorite color
 The two moons may be a problem
+<<<<<<< HEAD
 Here there be robots.
+=======
+
+yotam was here
+>>>>>>> d1520bcf58b52767938dfd28f5bac936a55a1ce5
